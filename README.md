@@ -19,9 +19,7 @@ Select Code>Local>Download Zip at the top-right of the page or download "Godot_2
 
 Once installed, the interface for this addon can be found in the side-bar in Blender. Hovering over the elements of the UI will give you a short description of what each tool does.
 
-![Godot 2d Bridge demo](https://public-files.gumroad.com/7bmevsbb5jqn686b3m52am7w5v4z)
-
-Above is a short demonstration of the add-on and how it works. The armature and the mesh where built ahead of time for this demo to focus on the features of the add-on, but you would normally want to convert those objects to 2D objects before performing major edits, because the add-on will lock the elements of an object to the x/y plane for you while you work.
+A short demonstration of the add-on can be viewed [here](https://public-files.gumroad.com/7bmevsbb5jqn686b3m52am7w5v4z). The armature and the mesh where built ahead of time for this demo to focus on the features of the add-on, but you would normally want to convert those objects to 2D objects before performing major edits, because the add-on will lock the elements of an object to the x/y plane for you while you work.
 
 The expected work-flow is to use a reference image to build a mesh and armature. Then, skin the armature to the mesh. Finally, export the objects to either a new or existing Godot scene. However, the tools in this add-on are pretty robust given it's scope and I expect you could find uses for them beyond what the add-on was designed for. I encourage you to experiment with this add-on even if you have no intention of using Godot.
 
