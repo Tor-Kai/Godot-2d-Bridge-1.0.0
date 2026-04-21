@@ -1,7 +1,7 @@
 import bpy
 from time import perf_counter
 
-from bpy_types import (
+from bpy.types import (
     Operator,
     PropertyGroup
 )
