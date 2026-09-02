@@ -1,4 +1,4 @@
-from bpy_types import Panel
+from bpy.types import Panel
 from .gd2db_utilities import export_objects
 
 
